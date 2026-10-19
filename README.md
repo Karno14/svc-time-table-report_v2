@@ -30,8 +30,6 @@ svc-time-table-report/
 │   ├── settings.py
 │   └── config/
 │       ├── local.yaml
-│       ├── arif.yaml
-│       ├── dev_andre.yaml
 │       └── email_template.jinja2
 ├── docs/
 │   └── jobs/
